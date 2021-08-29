@@ -11,6 +11,7 @@ Solutions (In C/C++/Java/Python - Programming) of various DSA problems. Everythi
   - Heaps
   - Graphs
   - Hash Tables & Hashing
-  - Sorting, Searching & Merging Algorithm
+  - Sorting & Merging Algorithm
+  - Searching
 
 ## Array & Matrices :
