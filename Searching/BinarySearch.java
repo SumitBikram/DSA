@@ -1,5 +1,3 @@
-package Searching;
-
 public class BinarySearch {
 	static int binarySearch(int[] arr, int left, int right, int element) {
 		if(right >= left) {
