@@ -5,7 +5,6 @@ Solutions (In C/C++/Java/Python - Programming) of various DSA problems. Everythi
 ![logo](https://raw.githubusercontent.com/SumitBikram/DSA/main/Stack/C-Programming-1630697345578.gif)
 
 ## Data Structure Topics:
-  1. Bit Logic
   1. Searching
   1. Sorting & Merging
   1. Array & Matrices
@@ -26,3 +25,9 @@ Solutions (In C/C++/Java/Python - Programming) of various DSA problems. Everythi
   1. Trie
   1. Segment & Binary indexed trees
   1. Disjoint Set
+
+## Miscellaneous
+  1. Bit Logic
+  1. Mathematics
+  1. Others…!!
+  
