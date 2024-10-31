@@ -2,7 +2,7 @@
 
 Solutions (In C/C++/Java/Python - Programming) of various DSA problems. Everything is lucidly explained and discussed. But if you stuck somewhere. Just Google up your problems or go to [geeksforgeeks](https://www.geeksforgeeks.org/).
 
-![logo](https://raw.githubusercontent.com/SumitBikram/DSA/main/Stack/C-Programming-1630697345578.gif)
+![logo](Data%20Structure/Stack/C-Programming-1630697345578.gif)
 
 ## Data Structure Topics:
   1. Searching
@@ -30,4 +30,3 @@ Solutions (In C/C++/Java/Python - Programming) of various DSA problems. Everythi
   1. Bit Logic
   1. Mathematics
   1. Others…!!
-  
