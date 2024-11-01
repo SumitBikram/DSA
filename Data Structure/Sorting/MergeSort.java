@@ -91,5 +91,6 @@ public class MergeSort {
       System.out.print(array[i] + " ");
     }
     System.out.println();
+    sc.close(); // Closing the scanner object.
   }
 }
