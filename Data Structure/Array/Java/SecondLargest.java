@@ -1,7 +1,8 @@
 public class SecondLargest {
     public static void main(String[] args) {
         int[] arr = {4, 10, 11, 15, 8, 1, 3};
-        System.out.println("Second largest element is:\t" + arr[secondLargestIndex(arr)]);
+        int index = secondLargestIndex(arr);
+        System.out.println("Second largest element is:\t" + arr[index] + " (index: " + index + ")");
     }
 
     static int secondLargestIndex(int[] arr) {
